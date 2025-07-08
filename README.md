@@ -58,8 +58,8 @@ Breast cancer is one of the leading causes of death among women globally. Early 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/BreastCancer-Mammogram-Classification.git
-cd BreastCancer-Mammogram-Classification
+git clone https://github.com/adeedamukhtar/Breast-Cancer-Mammogram/blob/main/cancer.ipynb
+
 ```
 
 ### 2. Install Requirements
